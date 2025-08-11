@@ -36,7 +36,7 @@ local.settings.*.json
 *.local.json
 
 # IDE
-.vscode/
+
 .idea/
 *.swp
 *.swo
@@ -66,3 +66,5 @@ htmlcov/
 # Temporary files
 *.tmp
 *.temp
+
+.python_packages
