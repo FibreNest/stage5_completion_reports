@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DB_CONNECTION_STRING": "postgresql://username:password@host:port/database",
+    "SENDGRID_BEARER_TOKEN": "your_sendgrid_bearer_token_here",
+    "SENDGRID_ENDPOINT": "https://api.sendgrid.com/v3/mail/send",
+    "SENDER_EMAIL": "reports@yourcompany.com",
+    "RECIPIENT_EMAILS": "email1@domain.com,email2@domain.com",
+    "CUMULATIVE_START_DATE": "2025-08-01"
+  }
+} 
